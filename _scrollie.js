@@ -79,7 +79,7 @@ let self = liberator.plugins.scrollie = (function(){
   var win;
   var interval;
 
-  function getScrollAmount() { return 200; }
+  function getScrollAmount() { return 50; }
 
   function getWindowHeight() { return win.innerHeight; }
 
